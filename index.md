@@ -274,8 +274,6 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <hr/>
-&nbsp;
-<br/>&nbsp;
 
 {% comment %}
   Resources section where links can be added to additional resources
@@ -285,7 +283,7 @@ please preview your site before committing, and make sure to run
 
 {% include swc/resources.html %}
 
-<br/>&nbsp;
+
 <hr/>
 
 {% comment %}
