@@ -274,6 +274,22 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <hr/>
+&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<hr/>
+
+{% comment %}
+  Resources section where links can be added to additional resources
+{% endcomment %}
+
+<h2 id="resources">Resources</h2>
+
+{% include swc/resources.html %}
+
+<hr/>
 
 {% comment %}
 SETUP
