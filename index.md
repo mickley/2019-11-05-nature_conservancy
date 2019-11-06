@@ -276,7 +276,6 @@ please preview your site before committing, and make sure to run
 <hr/>
 &nbsp;
 <br/>&nbsp;
-<hr/>
 
 {% comment %}
   Resources section where links can be added to additional resources
@@ -286,6 +285,7 @@ please preview your site before committing, and make sure to run
 
 {% include swc/resources.html %}
 
+<br/>&nbsp;
 <hr/>
 
 {% comment %}
