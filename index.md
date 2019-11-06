@@ -276,9 +276,6 @@ please preview your site before committing, and make sure to run
 <hr/>
 &nbsp;
 <br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
 <hr/>
 
 {% comment %}
